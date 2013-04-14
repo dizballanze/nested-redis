@@ -1,0 +1,6 @@
+--require should
+--require sugar
+--reporter dot
+--ui bdd
+--compilers coffee:coffee-script
+--recursive
